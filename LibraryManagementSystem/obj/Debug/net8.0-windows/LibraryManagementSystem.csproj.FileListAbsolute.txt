@@ -113,3 +113,4 @@ C:\Users\ASUS\Documents\projects(4 sem)\PKC-Library\LibraryManagementSystem\obj\
 C:\Users\ASUS\Documents\projects(4 sem)\PKC-Library\LibraryManagementSystem\obj\Debug\net8.0-windows\Views\EditGenreWindow.g.cs
 C:\Users\ASUS\Documents\projects(4 sem)\PKC-Library\LibraryManagementSystem\obj\Debug\net8.0-windows\Views\EditBookWindow.baml
 C:\Users\ASUS\Documents\projects(4 sem)\PKC-Library\LibraryManagementSystem\obj\Debug\net8.0-windows\Views\EditBookWindow.g.cs
+C:\Users\ASUS\Documents\projects(4 sem)\PKC-Library\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.sourcelink.json

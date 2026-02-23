@@ -51,8 +51,6 @@ namespace LibraryManagementSystem.Views
                 MessageBox.Show(errorMessage, "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
-
-        // ОБНОВЛЕННЫЙ МЕТОД РЕДАКТИРОВАНИЯ
         private void EditGenre_Click(object sender, RoutedEventArgs e)
         {
             if (GenresGrid.SelectedItem is Genre selectedGenre)

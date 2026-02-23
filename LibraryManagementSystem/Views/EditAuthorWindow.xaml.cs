@@ -6,7 +6,6 @@ namespace LibraryManagementSystem.Views
 {
     public partial class EditAuthorWindow : Window
     {
-        // Переименуем свойство, чтобы избежать конфликта с классом Author
         public Author CurrentAuthor { get; private set; }
 
         public EditAuthorWindow(Author author)

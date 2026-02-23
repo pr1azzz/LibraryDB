@@ -95,7 +95,6 @@ namespace LibraryManagementSystem.ViewModels
             }
         }
 
-        // НОВОЕ: свойство для выбранной книги
         public Book? SelectedBook
         {
             get => _selectedBook;
@@ -106,7 +105,6 @@ namespace LibraryManagementSystem.ViewModels
             }
         }
 
-        // ОБНОВЛЕННЫЕ КОМАНДЫ с проверкой
         public ICommand AddBookCommand => new RelayCommand(_ => AddBook());
         public ICommand EditBookCommand => new RelayCommand(_ => EditBook(), _ => SelectedBook != null);
         public ICommand DeleteBookCommand => new RelayCommand(_ => DeleteBook(), _ => SelectedBook != null);
@@ -185,12 +183,10 @@ namespace LibraryManagementSystem.ViewModels
             }
         }
 
-        // НОВЫЙ МЕТОД: редактирование книги
         private void EditBook()
         {
             try
             {
-                // Проверяем, выбрана ли книга
                 if (SelectedBook == null)
                 {
                     MessageBox.Show("Выберите книгу для редактирования", "Внимание", 
@@ -220,8 +216,6 @@ namespace LibraryManagementSystem.ViewModels
                     "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
-
-        // НОВЫЙ МЕТОД: удаление книги
         private void DeleteBook()
         {
             try

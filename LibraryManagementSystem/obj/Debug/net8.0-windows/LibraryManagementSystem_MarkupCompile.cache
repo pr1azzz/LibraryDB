@@ -1,5 +1,5 @@
 ﻿LibraryManagementSystem
-
+1.0.0.0
 
 exe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR
 C:\Users\ASUS\Documents\projects(4 sem)\PKC-Library\LibraryManagementSystem\App.xaml
 7-1234199933
 
-20-652502635
+221344681840
 212-209893137
 Views\AuthorsWindow.xaml;Views\BookWindow.xaml;Views\EditAuthorWindow.xaml;Views\EditBookWindow.xaml;Views\EditGenreWindow.xaml;Views\GenresWindow.xaml;Views\MainWindow.xaml;
 
-False
+True
 

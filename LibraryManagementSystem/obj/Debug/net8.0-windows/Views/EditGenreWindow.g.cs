@@ -67,7 +67,7 @@ namespace LibraryManagementSystem.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LibraryManagementSystem;component/views/editgenrewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LibraryManagementSystem;V1.0.0.0;component/views/editgenrewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\EditGenreWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

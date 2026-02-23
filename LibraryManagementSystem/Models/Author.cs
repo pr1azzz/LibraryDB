@@ -19,7 +19,6 @@ namespace LibraryManagementSystem.Models
         [MaxLength(50)]
         public string LastName { get; set; } = string.Empty;
         
-        // Важно: используем DateTime с указанием типа в PostgreSQL
         public DateTime BirthDate { get; set; }
         
         [MaxLength(50)]
