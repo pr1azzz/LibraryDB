@@ -1,0 +1,20 @@
+﻿LibraryManagementSystem
+
+
+exe
+C#
+.cs
+C:\Users\ASUS\Documents\projects(4 sem)\PKC-Library\LibraryManagementSystem\obj\Debug\net10.0-windows\
+LibraryManagementSystem
+none
+false
+TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NET10_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\ASUS\Documents\projects(4 sem)\PKC-Library\LibraryManagementSystem\App.xaml
+5-1664760304
+
+18-388411451
+218-1467406012
+MainWindow.xaml;Views\AuthorsWindow.xaml;Views\BookWindow.xaml;Views\GenresWindow.xaml;Views\MainWindow.xaml;
+
+True
+
